@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dapur-catering/static/css/main.b1d470c3.css",
+    "main.js": "/dapur-catering/static/js/main.999789a8.js",
+    "static/js/453.ef7321e0.chunk.js": "/dapur-catering/static/js/453.ef7321e0.chunk.js",
+    "static/media/kitchen-tool3.jpg": "/dapur-catering/static/media/kitchen-tool3.cebf5ca92377e65d23d4.jpg",
+    "static/media/kitchen-tool4.jpg": "/dapur-catering/static/media/kitchen-tool4.fb724f312e998fa7bfab.jpg",
+    "static/media/mui-halal.png": "/dapur-catering/static/media/mui-halal.201b05516034703ee9ea.png",
+    "static/media/food5.jpg": "/dapur-catering/static/media/food5.40e4df71ab3963ba4c98.jpg",
+    "static/media/paket-a.jpg": "/dapur-catering/static/media/paket-a.40e4df71ab3963ba4c98.jpg",
+    "static/media/food4.jpg": "/dapur-catering/static/media/food4.feefb0a5c1c1b0e37848.jpg",
+    "static/media/paket-d.jpg": "/dapur-catering/static/media/paket-d.feefb0a5c1c1b0e37848.jpg",
+    "static/media/food3.jpg": "/dapur-catering/static/media/food3.28c50f8a30e56671b24d.jpg",
+    "static/media/paket-c.jpg": "/dapur-catering/static/media/paket-c.28c50f8a30e56671b24d.jpg",
+    "static/media/doc-photo2.jpg": "/dapur-catering/static/media/doc-photo2.145dad17714bde36a5bd.jpg",
+    "static/media/food1.jpg": "/dapur-catering/static/media/food1.04defda210ec17b22766.jpg",
+    "static/media/food2.jpg": "/dapur-catering/static/media/food2.04defda210ec17b22766.jpg",
+    "static/media/paket-b.jpg": "/dapur-catering/static/media/paket-b.04defda210ec17b22766.jpg",
+    "static/media/doc-photo6.jpg": "/dapur-catering/static/media/doc-photo6.69114a9423fb45f3f166.jpg",
+    "static/media/doc-photo7.jpg": "/dapur-catering/static/media/doc-photo7.2dcb1274fdfc31cc32e6.jpg",
+    "static/media/logo.png": "/dapur-catering/static/media/logo.c6c369b86e2774f99f5a.png",
+    "static/media/doc-photo9.jpg": "/dapur-catering/static/media/doc-photo9.074b354ed91b478c0170.jpg",
+    "static/media/doc-photo4.jpg": "/dapur-catering/static/media/doc-photo4.6cee0ffcaf9ef92f742b.jpg",
+    "static/media/doc-photo5.jpg": "/dapur-catering/static/media/doc-photo5.541051bcbe23216ac327.jpg",
+    "static/media/doc-photo3.jpg": "/dapur-catering/static/media/doc-photo3.3a9a6511e544fbd20095.jpg",
+    "static/media/ardhan.png": "/dapur-catering/static/media/ardhan.14d49ab3db8538d4f64a.png",
+    "static/media/doc-photo1.jpg": "/dapur-catering/static/media/doc-photo1.2e670ed388e3704ed059.jpg",
+    "static/media/doc-photo8.jpg": "/dapur-catering/static/media/doc-photo8.bc34529b8e455dfba207.jpg",
+    "static/media/galih.png": "/dapur-catering/static/media/galih.7f0e0cf17ae99a99e18b.png",
+    "static/media/paket-e.jpg": "/dapur-catering/static/media/paket-e.78bc0fa705740c8211f0.jpg",
+    "static/media/paket-f.jpg": "/dapur-catering/static/media/paket-f.78bc0fa705740c8211f0.jpg",
+    "static/media/arin.png": "/dapur-catering/static/media/arin.235070e970ca939178b1.png",
+    "index.html": "/dapur-catering/index.html",
+    "main.b1d470c3.css.map": "/dapur-catering/static/css/main.b1d470c3.css.map",
+    "main.999789a8.js.map": "/dapur-catering/static/js/main.999789a8.js.map",
+    "453.ef7321e0.chunk.js.map": "/dapur-catering/static/js/453.ef7321e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d470c3.css",
+    "static/js/main.999789a8.js"
+  ]
+}
